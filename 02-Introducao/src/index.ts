@@ -7,10 +7,10 @@ import Venda from "./Venda";
 var venda : Venda = new Venda();
 var cliente : Cliente = new Cliente();
 var tel1 : Telefone = new Telefone();
-var telefones : Telefone[] = new Telefone();
+var telefones : Telefone[];
 var prod1 : Produto = new Produto();
 var prod2 : Produto = new Produto();
-var produtos : Produto[] = new Produto();
+var produtos : Produto[];
 var endereco : Endereco = new Endereco();
 
 cliente.data_nascimento = "16.12.2004";
