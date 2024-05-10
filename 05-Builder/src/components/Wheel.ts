@@ -7,7 +7,4 @@ export default class Wheel{
     public set rim(value: number){
         this._rim = value;
     }
- 
-    
-    
 }
